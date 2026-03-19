@@ -23,9 +23,9 @@ This project focuses on analyzing e-commerce sales data to uncover meaningful bu
 - Visualization of trends using line, bar, and pie charts
 
 ## Visualizations
-![Monthly Sales](downloads/monthly_sales_trend.png)
-![Top 5 Products](downloads/top5_products.png)
-![Regionwise Sales](downloads/regionwise_sales.png)
+![Monthly Sales](dmonthly_sales_trend.png)
+![Top Products](top5_products.png)
+![Regionwise Sales](regionwise_sales.png)
 
 ## 🔍 Key Insights
 - Sales show an increasing trend over time
