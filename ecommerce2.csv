@@ -1,0 +1,17 @@
+Order_ID,Customer_ID,Product,Category,Order_Date,Sales,Quantity,Region
+1001,C001,Laptop,Electronics,2025-01-05,55000,1,North
+1002,C002,Mobile,Electronics,2025-01-10,20000,2,West
+1003,C003,Shoes,Fashion,2025-01-15,3000,1,South
+1004,C001,Headphones,Electronics,2025-02-01,2000,1,North
+1005,C004,T-Shirt,Fashion,2025-02-10,1500,3,East
+1006,C005,Refrigerator,Appliances,2025-02-20,30000,1,West
+1007,C002,Microwave,Appliances,2025-03-05,12000,1,South
+1008,C006,Watch,Fashion,2025-03-12,5000,2,North
+1009,C007,Tablet,Electronics,2025-03-18,25000,1,East
+1010,C008,Air Conditioner,Appliances,2025-04-02,40000,1,West
+1011,C009,Jeans,Fashion,2025-04-10,2500,2,South
+1012,C010,Camera,Electronics,2025-04-15,45000,1,North
+1013,C011,Sofa,Home,2025-01-07,20000,1,East
+1014,C012,Chair,Home,2025-02-14,5000,2,West
+1015,C013,Bed,Home,2025-03-22,30000,1,North
+1016,C014,Blender,Appliances,2025-04-18,3000,1,South
