@@ -22,6 +22,11 @@ This project focuses on analyzing e-commerce sales data to uncover meaningful bu
 - SQL queries for revenue, product, and regional analysis
 - Visualization of trends using line, bar, and pie charts
 
+## Visualizations
+! [Monthly Sales] (monthly_sales_trend)
+! [Top 5 Products] (top_5_products)
+! [Regionwise Sales] (regionwise_sales)
+
 ## 🔍 Key Insights
 - Sales show an increasing trend over time
 - Electronics category contributes the highest revenue
