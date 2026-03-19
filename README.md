@@ -28,7 +28,7 @@ This project focuses on analyzing e-commerce sales data to uncover meaningful bu
 ![Regionwise Sales](regionwise_sales.png)
 
 ## 🔍 Key Insights
-- Sales show an increasing trend over time
+- Sales exhibit volatility initially, with a sharp dip in Month 2, followed by consistent growth.
 - Electronics category contributes the highest revenue
 - West region leads in overall sales performance
 - High-value products drive a major portion of revenue
